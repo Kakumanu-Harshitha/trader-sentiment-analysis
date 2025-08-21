@@ -1,4 +1,4 @@
-# trader-sentiment-analysis
+# Trader-Sentiment-Analysis
 # Project Overview
 This project analyzes the relationship between the Bitcoin Fear & Greed Index and the historical performance of traders on the Hyperliquid platform. The primary objective is to uncover hidden patterns in trader behavior and deliver data-driven insights that can be used to develop smarter, more effective trading strategies.
 
